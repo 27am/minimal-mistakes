@@ -59,6 +59,8 @@ links:
   - title: Italiano
     url: 
     external: true
+  - title: Acronyms
+    url: acronyms/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Rome
