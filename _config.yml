@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 title:            Andrea Merlina
 description:      Welcome to my personal site
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              
+url:              //27am.github.io
 #http://localhost:5000
 disqus_shortname: andreamerlinahome
 
