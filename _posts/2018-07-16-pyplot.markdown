@@ -1,0 +1,21 @@
+---
+layout: posts
+title:  "pyplot"
+categories: personal
+---
+
+matplotlib.pyplot is a library to show diagrams
+
+
+```
+
+plot.figure()
+plot.scatter(k, sum_cf, color='black', label='Sum of Cause Fractions')
+plot.scatter(k, data[:, 0],  color='b', label='Dis 1: cf = .6, var = .2')
+plot.scatter(k, data[:, 1],  color='r',  label='Dis 2: cf = .2, var = .1')
+plot.scatter(k, data[:, 2],  color='g', label='Dis 3: cf = .1, var = .01')
+plot.legend(loc=2)
+
+```
+
+okay
