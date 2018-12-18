@@ -1,8 +1,10 @@
 ---
-layout: posts
+layout: post
 title:  "OAuth 2.0"
-categories: personal
+description: "OAuth 2.0"
+comments: false
 ---
+
 
 Oauth 2.0 is a protocol developed for authenticate users
 

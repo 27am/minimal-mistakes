@@ -1,66 +1,42 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+#minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
 title:            Andrea Merlina
-description:      Welcome to my personal site
+description:      Welcome to my website
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //27am.github.io
 #http://localhost:5000
-disqus_shortname: andreamerlinahome
+#https://jponttuset.github.io
+disqus_shortname: andreamerlina
 
 # Owner/author information
 owner:
   name:           Andrea Merlina
   avatar:         andrea.png
   bio:            I am an engineer
-  email:          x
+  email:          merlina.andrea@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 
-  linkedin: 
-  facebook: 
-#  google_scholar: VCBBx24AAAAJ
+  twitter: am
+  linkedin: am
+  google_scholar: none
 #  google_plus: 113718226018314522413
   github: 27am
-  medium: 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify: 
+#google_analytics: UA-52736040-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: cv/
-  - title: Publications
-    url: publications/
-  - title: Talks
-    url: talks/
-  - title: Projects
-    url: projects/
-  - title: Blog
-    url: //medium.com/
-    external: true
-  - title: Italiano
-    url: 
-    external: true
+  - title: Curriculum Vitae
+    url: /cv/
   - title: Acronyms
-    url: acronyms/
+    url: /acronyms/
+  - title: Projects
+    url: /projects/
+  - title: Posts
+    url: /posts/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Rome
@@ -71,7 +47,8 @@ markdown:    kramdown
 kramdown:
   extensions: ["strikethrough"]
   
-permalink:   /blog/:title/
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
 
 kramdown:
   auto_ids: true

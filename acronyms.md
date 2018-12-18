@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Acronyms
+layout: page
 permalink: /acronyms/
+title: Acronyms
+tags: [acronyms]
+comments: false
 ---
 
 Most of the time in documents and discussions related to IT, networking and cybersecurity you will encounter acronyms whose meaning might be obscure. This is a list of some of them that I use as self-reference, I hope it can be helpful to you too.

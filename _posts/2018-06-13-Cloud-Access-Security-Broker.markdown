@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "Cloud Access Security Broker"
-categories: personal
+description: "Cloud Access Security Broker"
+comments: false
 ---
 
 Cloud Access Security Broker (CASB) is a service that manages in a centralized and granular way security related to SaaS.

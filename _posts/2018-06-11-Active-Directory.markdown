@@ -1,8 +1,11 @@
 ---
-layout: posts
+layout: post
 title:  "Active Directory"
-categories: personal
+description: "Active Directory description"
+comments: true
 ---
+
+
 
 Active Directory (AD) provides both:
 - Authentication
