@@ -10,7 +10,7 @@ Those are some projects I have been doing
 
 ### University projects
 
-* [**eNose for cancer detection**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
+* [**eNose for cancer detection**](https://27am.github.io/assets/pdf/eNOSE_presentation_end.pdf)<br>
 State of the art in cancer detection. OK, nope, just kidding.
 
  
