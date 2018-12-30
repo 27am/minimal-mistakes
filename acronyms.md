@@ -8,6 +8,7 @@ comments: false
 
 Most of the time in documents and discussions related to IT, networking and cybersecurity you will encounter acronyms whose meaning might be obscure. This is a list of some of them that I use as self-reference, I hope it can be helpful to you too.
 
+```
 ### A
 `AAA` Authentication, Authorization and Accounting
 
@@ -32,6 +33,7 @@ Most of the time in documents and discussions related to IT, networking and cybe
 `ATP` Advanced Threat Protection
 
 `AUP` Acceptable Use Policy
+```
 
 ### B
 `BIA` Business Impact Analysis
