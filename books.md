@@ -1,9 +1,11 @@
 ---
 layout: page
-permalink: /acronyms/
-title: Acronyms
-tags: [acronyms]
+permalink: /books/
+title: Books
+tags: [books]
 comments: false
 ---
 
 Books I have read.
+
+* 21 lecciones para el siglo XXI (spanish)
