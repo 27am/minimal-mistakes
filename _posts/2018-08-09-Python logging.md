@@ -1,7 +1,8 @@
 ---
-layout: posts
-title:  "Python logging"
-categories: personal
+layout: post
+title: "Python logging"
+description: ""
+comments: false
 ---
 
 To act as a reference for every program

@@ -1,7 +1,8 @@
 ---
-layout: posts
-title:  "The benefits of programming"
-categories: personal
+layout: post
+title: "The benefit of programming"
+description: "There are some obvious advantages"
+comments: false
 ---
 
 This is a small story about having a "programming hat" in your closet ready to be worn.
