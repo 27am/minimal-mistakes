@@ -25,3 +25,9 @@ That’s not the only possible type of Proof.  In general, in order to be a viab
 Using mining techniques limits consistently the impact of Sybil attacks while giving a way to reach a consensus through the simple rule of expanding the longest chain. Indeed, without mining, any malicious actor would be able to destroy the system by creating fake identities. 
 It’s still possible to subvert the system by owning large part of it, namely 51%, but it would be highly costly and, since it would destroy the trust and the profitability of the system right afterwards, it’s considered totally irrational from an economic point of view.
 This is linked to the concept of Nash equilibrium, where each stakeholder has the interest of following the rules of the system.
+
+<br>
+<br>
+
+[1] Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder 
+[2] Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman
