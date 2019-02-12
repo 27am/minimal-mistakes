@@ -29,5 +29,6 @@ This is linked to the concept of Nash equilibrium, where each stakeholder has th
 <br>
 <br>
 
-[1] Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder 
-[2] Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman
+[1] <i>Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder </i>
+<br>
+[2] <i>Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman</i>
