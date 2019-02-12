@@ -38,7 +38,12 @@ The role of the research community can be to understand deeply and analyze key f
 
 In conclusion, Bitcoin came out as a solution for a long sought-after problem. It’s worth of research because it might hide some ingredients to tackle other problem’s solutions not yet solved.
 
-[1]
-[2]
+<br>
+<br>
+
+[1] <i>Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman</i>
+<br>
+[2] <i>SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies - Joseph Bonneau, Andrew Miller, Jeremy Clark, Arvind Narayanan, Joshua A. Kroll, Edward W. Felten</i>
+<br>
 [3] <i>On Scaling Decentralized Blockchains (A Position Paper) - Kyle Croman, Christian Decker, Ittay Eyal, Adem Efe Gencer, Ari Juels, Ahmed Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin Gun Sirer, Dawn Song, and Roger Wattenhofer</i>
 
