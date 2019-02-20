@@ -6,12 +6,16 @@ tags: [projects, personal]
 comments: false
 ---
 
-Those are some projects I have been doing
+List
 
-### University projects
+### University projects and presentations
 
+* [**Byzantine Fault Tolerance**](https://27am.github.io/assets/pdf/BFT_presentation.pdf)<br>
+An overview of PBFT algorithm and comparison with blockchains
+<br>
+<br>
 * [**eNose for cancer detection**](https://27am.github.io/assets/pdf/eNOSE_presentation_end.pdf)<br>
-State of the art in cancer detection. OK, nope, just kidding.
+Data analysis on lung cancer based on patient's breath
 
  
 ### Personal projects
