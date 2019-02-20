@@ -18,12 +18,9 @@ To briefly mention the kind of existing wallets, they can be grouped in three ma
 * Remote wallet. The private key is held by somebody else that you trust. 
 * Offline wallet. Usually regarded as the most secure, the private key is outside the grid, let it be a piece of paper or your brain.
 <br>
-
 Bitcoin has been devised about 10 years ago and due to its popularity, the volume of transactions has risen in a way that, maybe, hasn’t been foreseen during its creation. What we can say without much doubt is that the transaction throughput of Bitcoin can’t compete with other payment system such as Visa or Mastercard. If Bitcoin, or its successor, wants to impose itself as the main payment method, this has to be addressed.
-The scalability problems can be conjugated in different planes, or aspects, that we list here briefly. 
-
+The scalability problems can be conjugated in different planes, or aspects, that we list here briefly.
 <br>
-
 1.	Network plane
 2.	Consensus plane
 3.	Storage plane
