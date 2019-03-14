@@ -29,6 +29,7 @@ Algorand’s approach on the other hand is Proof of Stake based, with a selectio
 
 
 <br>
+<hr>
 <br>
 
 [1] <i>Blockchain Consensus Protocols in the Wild - Christian Cachin, Marko Vukolic</i>

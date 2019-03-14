@@ -36,6 +36,7 @@ The role of the research community can be to understand deeply and analyze key f
 In conclusion, Bitcoin came out as a solution for a long sought-after problem. It’s worth of research because it might hide some ingredients to tackle other problem’s solutions not yet solved.
 
 <br>
+<hr>
 <br>
 
 [1] <i>Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman</i>
