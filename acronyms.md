@@ -9,29 +9,29 @@ comments: false
 In many resources IT related you will encounter acronyms whose meaning might be obscure. This is a list of some of them that I use as self reference. I hope it can prove helpful for you too.
 
 ### A
-`AAA` Authentication, Authorization and Accounting
+`AAA`  Authentication, Authorization and Accounting
 
-`AAC` Adaptive Access Control
+`AAC`  Adaptive Access Control
 
-`AD` Active Directory
+`AD`   Active Directory
 
 `ADFS` Active Directory Federation Services
 
-`AEP` Advanced Endpoint Protection
+`AEP`  Advanced Endpoint Protection
 
-`AMD` Advanced Malware Detection
+`AMD`  Advanced Malware Detection
 
-`AMP` Advanced Malware Protection
+`AMP`  Advanced Malware Protection
 
-`APM` Application Portfolio Management
+`APM`  Application Portfolio Management
 
 `ARPU` Average Revenue Per User
 
-`APT` Advanced Persistent Threat
+`APT`  Advanced Persistent Threat
 
-`ATP` Advanced Threat Protection
+`ATP`  Advanced Threat Protection
 
-`AUP` Acceptable Use Policy
+`AUP`  Acceptable Use Policy
 
 
 ### B
